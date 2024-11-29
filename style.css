@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-image: url(/Images/2125999\ \(Large\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+}
+h1{
+    margin-bottom: 0px;
+}
+form{
+    margin:50px 400px;
+    padding: 10px 100px;
+    border: 1px solid blue;
+    background-color: whitesmoke;
+    
+    
+}
+.container{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    
+}
+.container input{
+    margin-top: 5px;
+    padding: 2px;
+}
+.error{
+    color: red;
+    margin-left: 5px;
+}
+button{
+    background-color: blue;
+    color: white;
+    border-radius: 6px;
+    padding: 3px;
+    border: 0.5px solid blue;
+    box-shadow: 1px 2px 4px 1px black;
+    margin-left: 50px;
+}
