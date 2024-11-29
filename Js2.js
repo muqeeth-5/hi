@@ -34,7 +34,7 @@ function fun1(event){
     }
     if (!haserror){
         confirm("Are you sure you want to confirm");
-        window.location.href = "https://th.bing.com/th?id=ORMS.6c33c7069d65411ca59684a16646c2b3&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0";
+        window.location.href = "https://th.bing.com/th?id=OIP.nbHukA6aBY7lHUfIWyjKrgAAAA&w=212&h=212&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2";
 
     }
 }
